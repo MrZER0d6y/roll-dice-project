@@ -1,0 +1,158 @@
+[
+  {
+    "player_name": "Shimi",
+    "rounds": 8,
+    "player_score": 2,
+    "computer_score": 4,
+    "winner": "Computer",
+    "results": [
+      {
+        "round": 0,
+        "player_dice": 2,
+        "computer_dice": 1,
+        "winner": "Shimi"
+      },
+      {
+        "round": 1,
+        "player_dice": 6,
+        "computer_dice": 4,
+        "winner": "Shimi"
+      },
+      {
+        "round": 2,
+        "player_dice": 1,
+        "computer_dice": 5,
+        "winner": "Computer"
+      },
+      {
+        "round": 5,
+        "player_dice": 4,
+        "computer_dice": 5,
+        "winner": "Computer"
+      },
+      {
+        "round": 6,
+        "player_dice": 1,
+        "computer_dice": 2,
+        "winner": "Computer"
+      },
+      {
+        "round": 7,
+        "player_dice": 1,
+        "computer_dice": 3,
+        "winner": "Computer"
+      }
+    ]
+  },
+  {
+    "player_name": "Segal",
+    "rounds": 10,
+    "player_score": 2,
+    "computer_score": 6,
+    "winner": "Computer",
+    "results": [
+      {
+        "round": 0,
+        "player_dice": 4,
+        "computer_dice": 5,
+        "winner": "Computer"
+      },
+      {
+        "round": 2,
+        "player_dice": 3,
+        "computer_dice": 4,
+        "winner": "Computer"
+      },
+      {
+        "round": 3,
+        "player_dice": 3,
+        "computer_dice": 4,
+        "winner": "Computer"
+      },
+      {
+        "round": 4,
+        "player_dice": 6,
+        "computer_dice": 1,
+        "winner": "Segal"
+      },
+      {
+        "round": 5,
+        "player_dice": 1,
+        "computer_dice": 6,
+        "winner": "Computer"
+      },
+      {
+        "round": 7,
+        "player_dice": 4,
+        "computer_dice": 5,
+        "winner": "Computer"
+      },
+      {
+        "round": 8,
+        "player_dice": 5,
+        "computer_dice": 4,
+        "winner": "Segal"
+      },
+      {
+        "round": 9,
+        "player_dice": 2,
+        "computer_dice": 3,
+        "winner": "Computer"
+      }
+    ]
+  },
+  {
+    "player_name": "ABC",
+    "rounds": 1,
+    "player_score": 1,
+    "computer_score": 0,
+    "winner": "ABC",
+    "results": [
+      {
+        "round": 0,
+        "player_dice": 6,
+        "computer_dice": 3,
+        "winner": "ABC"
+      }
+    ]
+  },
+  {
+    "player_name": "Shimi",
+    "rounds": 5,
+    "player_score": 3,
+    "computer_score": 2,
+    "winner": "Shimi",
+    "results": [
+      {
+        "round": 0,
+        "player_dice": 3,
+        "computer_dice": 5,
+        "winner": "Computer"
+      },
+      {
+        "round": 1,
+        "player_dice": 5,
+        "computer_dice": 4,
+        "winner": "Shimi"
+      },
+      {
+        "round": 2,
+        "player_dice": 3,
+        "computer_dice": 4,
+        "winner": "Computer"
+      },
+      {
+        "round": 3,
+        "player_dice": 5,
+        "computer_dice": 4,
+        "winner": "Shimi"
+      },
+      {
+        "round": 4,
+        "player_dice": 5,
+        "computer_dice": 1,
+        "winner": "Shimi"
+      }
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local data and logs
+*.log
+*.db
+
+# Secrets and environments
+.env
+venv/
